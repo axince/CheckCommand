@@ -1,0 +1,7 @@
+name: Check
+version: 1.0
+author: axince
+main: xyz.axince.check.Check
+
+commands:
+  check:
